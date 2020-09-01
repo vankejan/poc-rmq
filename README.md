@@ -1,0 +1,1 @@
+This project serves as a simple reference implementation of message sending to RMQ. Can be used to test parsing of messages on the reciever side.
